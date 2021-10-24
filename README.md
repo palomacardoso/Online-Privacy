@@ -1,6 +1,6 @@
-# Privacidade_Online
+# Online Privacy
 
-RESUMO
+#### RESUMO
 
 Neste trabalho serão mostrados conceitos sobre proteção de dados pessoais, de
 acordo com leis sobre privacidade. Será discutido a importância de um regulamento
@@ -10,7 +10,7 @@ sigilo na internet, abordando temas como o anonimato na rede “Deep Web”, exi
 o funcionamento da criptografia utilizada. Assim como uma conclusão sobre a
 existência de privacidade na internet.
 
-ABSTRACT
+#### ABSTRACT
 
 In this work we will show concepts about protection of personal data, according to
 privacy laws. It will be discussed the importance of a more sophisticated regulation,
